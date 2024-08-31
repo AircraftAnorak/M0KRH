@@ -1,0 +1,23 @@
+title: M0KRH
+description: Project page for M0KRH
+theme: just-the-docs
+
+markdown: kramdown
+
+url: https://AircraftAnorak.github.io
+
+#logo: "assets/images/ears-cive_logo.png"
+
+color_scheme: dark
+
+aux_links: false
+
+
+callouts:
+  note:
+    color: purple
+ 
+  info:
+    color: green
+ 
+footer_content: "© Copyright Caspar B Pierce 'Aircraft Anorak' M0KRH"
