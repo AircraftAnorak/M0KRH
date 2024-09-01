@@ -16,4 +16,4 @@ I currently operate as M0KRH (as you may have already figured out from the websi
 
 This website is intended to document my projects for future reference and for others to browse through, hopefully inspired!
 
-Really interested in learning about mm wave frequencies, satcom and radar - hoping to use/build lots of equipment surrounding those topics.
+Really interested in learning about microwave, satcom and radar - hoping to use/build lots of equipment surrounding those topics.
