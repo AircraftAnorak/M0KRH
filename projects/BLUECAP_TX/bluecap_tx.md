@@ -166,6 +166,6 @@ Please note that the transmitter will not work unless the screening case is on (
 
 <img src="media/bluecap_assembled.jpeg" width="50%">
 
-To test the transmitter, I used a unmodified LNB with a satfinder meter to see if any measurable power was being transmitted (as I do not have any microwave test equipment). As used in many famous experiments in the past, as screwdriver was used to get precise alignment of the two horns.
+To test the transmitter, I used a unmodified LNB with a satfinder meter to see if any measurable power was being transmitted (as I do not have any microwave test equipment). As used in many famous experiments in the past, a screwdriver, was used to get precise alignment of the two horns.
 
 ![Testing](media/bluecap_testing.jpeg)
